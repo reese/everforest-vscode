@@ -193,7 +193,7 @@
     "compile:themes": "node dist/hook/generateThemes.js",
     "compile": "npm run clean && npm run compile:ts && npm run compile:themes",
     "package": "vsce package && git checkout -- themes",
-    "lint": "eslint . --ext .ts",
+    "lint": "eslint",
     "browser": "vscode-test-web --browserType=chromium --extensionDevelopmentPath=. .",
     "prepare": "husky"
   },
@@ -207,17 +207,16 @@
   "devDependencies": {
     "@types/node": "^24.0.0",
     "@types/vscode": "^1.80.0",
-    "@typescript-eslint/eslint-plugin": "^8.0.0",
-    "@typescript-eslint/parser": "^8.0.0",
     "@vscode/test-web": "^0.0.78",
     "@vscode/vsce": "^3.0.0",
-    "eslint": "^8.57.0",
-    "eslint-config-prettier": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^10.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "husky": "^9.0.0",
     "lint-staged": "^15.0.0",
     "prettier": "^3.0.0",
     "rimraf": "^5.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "typescript-eslint": "^8.0.0"
   }
 }

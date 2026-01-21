@@ -6,6 +6,5 @@ tsconfig.json
 dist/hook
 .github
 .husky
-.eslintrc.js
-.eslintignore
+eslint.config.mjs
 .vscode-test-web

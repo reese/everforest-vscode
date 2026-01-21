@@ -5,11 +5,12 @@ import { getItalicSyntax } from "./italic";
 
 export function getSyntax(configuration: Configuration, variant: string) {
   const palette = getPalette(configuration, variant);
+  const italicComments = configuration.italicComments ?? true;
   let syntax: any;
   if (configuration.italicKeywords === true) {
-    syntax = getItalicSyntax(palette, configuration.italicComments);
+    syntax = getItalicSyntax(palette, italicComments);
   } else {
-    syntax = getDefaultSyntax(palette, configuration.italicComments);
+    syntax = getDefaultSyntax(palette, italicComments);
   }
   return syntax;
 }
