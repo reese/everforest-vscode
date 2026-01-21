@@ -2,6 +2,15 @@
 
 All notable changes to the "everforest" extension will be documented in this file.
 
+## 0.4.0
+
+- Updated dependencies and published under the `reesew` VSCode Marketplace organization as `reesew.everforest`
+- Note: there are no functional changes, this is just publishing a supported fork
+
+---
+
+The following section of the changelog is from before this repo was forked from https://github.com/sainnhe/everforest-vscode.
+
 ## 0.3.0
 
 - Change `activationEvents`.
