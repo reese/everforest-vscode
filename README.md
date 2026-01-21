@@ -181,7 +181,7 @@ See this [wiki page](https://github.com/sainnhe/everforest/wiki).
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/sainnhe/gruvbox-material-vscode/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTING.md](https://github.com/reese/everforest-vscode/blob/master/CONTRIBUTING.md).
 
 ## Inspirations
 
