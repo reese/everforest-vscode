@@ -7,13 +7,13 @@ This color scheme is a port of [Everforest](https://github.com/sainnhe/everfores
 Visual examples of all the configurations in the original [Everforest](https://github.com/sainnhe/everforest) README.
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=reesew.everforest" alt="Marketplace">
+    <a href="https://marketplace.visualstudio.com/items?itemName=reesew.everforest-theme" alt="Marketplace">
         <img src="https://img.shields.io/badge/vscode-marketplace-blue" /></a>
     <a href="https://github.com/reese/everforest-vscode" alt="Repository">
         <img src="https://img.shields.io/badge/github-repository-blueviolet" /></a>
     <a href="https://github.com/reese/everforest-vscode/issues" alt="Issues">
         <img src="https://img.shields.io/badge/issue-feedback-red" /></a>
-    <a href="https://vscode.dev/theme/reesew.everforest" alt="Preview">
+    <a href="https://vscode.dev/theme/reesew.everforest-theme" alt="Preview">
         <img src="https://img.shields.io/badge/preview-vscode.dev-yellow" /></a>
 </p>
 
@@ -30,7 +30,7 @@ Visual examples of all the configurations in the original [Everforest](https://g
 ## Installation
 
 1. Press extensions icon in your editor.
-2. Search for `reesew.everforest`.
+2. Search for `reesew.everforest-theme`.
 3. Select this extension and press `install` button.
 
 ## Usage

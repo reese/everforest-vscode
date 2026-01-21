@@ -4,7 +4,7 @@ All notable changes to the "everforest" extension will be documented in this fil
 
 ## 0.4.0
 
-- Updated dependencies and published under the `reesew` VSCode Marketplace organization as `reesew.everforest`
+- Updated dependencies and published under the `reesew` VSCode Marketplace organization as `reesew.everforest-theme`
 - Note: there are no functional changes, this is just publishing a supported fork
 
 ---
