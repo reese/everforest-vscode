@@ -1,9 +1,9 @@
 {
-  "name": "everforest",
-  "displayName": "Everforest",
+  "name": "everforest-theme",
+  "displayName": "Everforest Theme",
   "description": "Comfortable & Pleasant Color Scheme for Visual Studio Code",
   "version": "0.3.0",
-  "publisher": "reese",
+  "publisher": "reesew",
   "author": "reese (https://github.com/reese)",
   "homepage": "https://github.com/reese/everforest-vscode",
   "repository": {
