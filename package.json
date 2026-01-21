@@ -3,15 +3,15 @@
   "displayName": "Everforest",
   "description": "Comfortable & Pleasant Color Scheme for Visual Studio Code",
   "version": "0.3.0",
-  "publisher": "sainnhe",
-  "author": "sainnhe (https://github.com/sainnhe)",
-  "homepage": "https://github.com/sainnhe/everforest-vscode",
+  "publisher": "reese",
+  "author": "reese (https://github.com/reese)",
+  "homepage": "https://github.com/reese/everforest-vscode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sainnhe/everforest-vscode.git"
+    "url": "https://github.com/reese/everforest-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/sainnhe/everforest-vscode/issues"
+    "url": "https://github.com/reese/everforest-vscode/issues"
   },
   "license": "MIT",
   "keywords": [
