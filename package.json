@@ -207,7 +207,7 @@
   "devDependencies": {
     "@types/node": "^25.0.10",
     "@types/vscode": "^1.80.0",
-    "@vscode/test-web": "^0.0.78",
+    "@vscode/test-web": "^0.0.79",
     "@vscode/vsce": "^3.0.0",
     "eslint": "^9.0.0",
     "eslint-config-prettier": "^10.0.0",
