@@ -12,8 +12,8 @@ export function getPalette(
   configuration: Configuration,
   variant: string,
 ): Palette {
-  let paletteBackground = darkBackgroundMedium;
-  let paletteForeground = darkForeground;
+  let paletteBackground, paletteForeground;
+
   if (variant === "dark") {
     paletteForeground = darkForeground;
     switch (
