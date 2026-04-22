@@ -209,7 +209,7 @@
     "@types/node": "^25.6.0",
     "@types/vscode": "^1.80.0",
     "@vscode/test-web": "^0.0.80",
-    "@vscode/vsce": "^3.8.0",
+    "@vscode/vsce": "^3.9.1",
     "eslint": "^10.2.0",
     "eslint-config-prettier": "^10.0.0",
     "eslint-plugin-prettier": "^5.0.0",
