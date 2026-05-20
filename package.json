@@ -210,7 +210,7 @@
     "@types/vscode": "^1.80.0",
     "@vscode/test-web": "^0.0.80",
     "@vscode/vsce": "^3.9.1",
-    "eslint": "^10.3.0",
+    "eslint": "^10.4.0",
     "eslint-config-prettier": "^10.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "husky": "^9.0.0",
