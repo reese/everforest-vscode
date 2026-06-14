@@ -21,6 +21,11 @@ jobs:
 
     env:
       NODE_ENV: test
+      # CI only lints and packages; it never launches a browser. Skip the
+      # multi-hundred-MB Chromium download that @vscode/test-web's
+      # @playwright/browser-chromium dependency runs on install, which
+      # otherwise stalls `npm ci` indefinitely on a fresh runner.
+      PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: 1
 
     steps:
       - name: Check out ref
